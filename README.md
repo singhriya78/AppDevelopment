@@ -33,3 +33,4 @@ A clean, responsive sidebar navigation menu built with pure HTML and CSS — no 
 
 The sidebar uses a hidden `<input type="checkbox">` paired with `<label>` elements to toggle visibility — a common "CSS checkbox hack" that avoids JavaScript for simple show/hide interactions.
 
+Author:Riya Raj
